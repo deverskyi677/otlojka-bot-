@@ -1,0 +1,17 @@
+{
+  "catalog": [
+    {"country": "Россия", "price": 500},
+    {"country": "Украина", "price": 700},
+    {"country": "Казахстан", "price": 400}
+  ],
+  "orders": [],
+  "stats": {
+    "users": [],
+    "visits": 0
+  },
+  "settings": {
+    "welcome": "Добро пожаловать в SIALENS Физ!\n\n📱 Покупайте виртуальные номера легко и быстро.",
+    "button_color": "#0088cc",
+    "button_name": "📱 Купить номер"
+  }
+}
